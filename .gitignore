@@ -2,3 +2,5 @@ data/
 src/scripts/
 env/
 __pycache__/
+*.pdf
+.env
