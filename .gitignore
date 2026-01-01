@@ -1,0 +1,4 @@
+data/
+src/scripts/
+env/
+__pycache__/
